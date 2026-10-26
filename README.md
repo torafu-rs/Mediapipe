@@ -1,2 +1,2 @@
 # Mediapipe
-baitap
+bài mediapipe ứng dụng handtracking
