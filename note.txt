@@ -1,1 +1,1 @@
-logic của sản phẩm là em dựa theo hình ảnh để làm ra và biết được input/output của em sẽ là , và vì bản thân không có nền lập trình nên có sự thảm khảo bên ngoài nhiều để dựng lên bài và hoàn thiện sản phẩm 
+logic của sản phẩm là em dựa theo hình ảnh để làm ra và biết được input/output của em sẽ là gì , và vì bản thân không có nền lập trình nên có sự thảm khảo bên ngoài nhiều để dựng lên bài và hoàn thiện sản phẩm 
