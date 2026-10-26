@@ -1,5 +1,5 @@
 """Track hand landmarks and motion using a webcam."""
-
+ 
 import argparse
 import importlib.machinery
 import importlib.util
